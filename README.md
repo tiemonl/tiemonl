@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+## My GitHub Stats
+
+<a href="https://github.com/tiemonl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiemonl&theme=solarized-dark" />
+</a>
+<a href="https://github.com/tiemonl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiemonl&show_icons=true&theme=solarized-dark&include_all_commits=true" />
+</a>
 
 <!--
 **tiemonl/tiemonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
